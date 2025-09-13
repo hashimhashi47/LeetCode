@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/hashimhashi47/LeetCode/tree/master/0001-two-sum) |
 | [3311-ant-on-the-boundary](https://github.com/hashimhashi47/LeetCode/tree/master/3311-ant-on-the-boundary) |
 ## Simulation
 |  |
@@ -20,4 +21,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3311-ant-on-the-boundary](https://github.com/hashimhashi47/LeetCode/tree/master/3311-ant-on-the-boundary) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/hashimhashi47/LeetCode/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
