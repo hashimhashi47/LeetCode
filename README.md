@@ -37,5 +37,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0742-to-lower-case](https://github.com/hashimhashi47/LeetCode/tree/master/0742-to-lower-case) |
 | [1205-defanging-an-ip-address](https://github.com/hashimhashi47/LeetCode/tree/master/1205-defanging-an-ip-address) |
 <!---LeetCode Topics End-->
