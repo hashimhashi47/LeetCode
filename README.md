@@ -34,4 +34,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/hashimhashi47/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+## String
+|  |
+| ------- |
+| [1205-defanging-an-ip-address](https://github.com/hashimhashi47/LeetCode/tree/master/1205-defanging-an-ip-address) |
 <!---LeetCode Topics End-->
