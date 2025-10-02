@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/hashimhashi47/LeetCode/tree/master/0412-fizz-buzz) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/hashimhashi47/LeetCode/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [2383-add-two-integers](https://github.com/hashimhashi47/LeetCode/tree/master/2383-add-two-integers) |
+| [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/hashimhashi47/LeetCode/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/hashimhashi47/LeetCode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [3371-harshad-number](https://github.com/hashimhashi47/LeetCode/tree/master/3371-harshad-number) |
 ## Array
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1603-running-sum-of-1d-array](https://github.com/hashimhashi47/LeetCode/tree/master/1603-running-sum-of-1d-array) |
 | [1791-richest-customer-wealth](https://github.com/hashimhashi47/LeetCode/tree/master/1791-richest-customer-wealth) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/hashimhashi47/LeetCode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
+| [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/hashimhashi47/LeetCode/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/hashimhashi47/LeetCode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2634-minimum-common-value](https://github.com/hashimhashi47/LeetCode/tree/master/2634-minimum-common-value) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/hashimhashi47/LeetCode/tree/master/2876-number-of-employees-who-met-the-target) |
