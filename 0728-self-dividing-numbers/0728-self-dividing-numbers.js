@@ -5,8 +5,7 @@
  */
 var selfDividingNumbers = function (left, right) {
     let arr = []
-    let result = [] // <-- added this to store valid numbers
-
+    let result = []
     for (let i = left; i <= right; i++) {
         arr.push(i)
     }
