@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/hashimhashi47/LeetCode/tree/master/0009-palindrome-number) |
 | [0043-multiply-strings](https://github.com/hashimhashi47/LeetCode/tree/master/0043-multiply-strings) |
+| [0066-plus-one](https://github.com/hashimhashi47/LeetCode/tree/master/0066-plus-one) |
 | [0371-sum-of-two-integers](https://github.com/hashimhashi47/LeetCode/tree/master/0371-sum-of-two-integers) |
 | [0412-fizz-buzz](https://github.com/hashimhashi47/LeetCode/tree/master/0412-fizz-buzz) |
 | [0728-self-dividing-numbers](https://github.com/hashimhashi47/LeetCode/tree/master/0728-self-dividing-numbers) |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/hashimhashi47/LeetCode/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/hashimhashi47/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0066-plus-one](https://github.com/hashimhashi47/LeetCode/tree/master/0066-plus-one) |
 | [0136-single-number](https://github.com/hashimhashi47/LeetCode/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/hashimhashi47/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/hashimhashi47/LeetCode/tree/master/0217-contains-duplicate) |
