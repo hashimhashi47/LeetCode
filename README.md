@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/hashimhashi47/LeetCode/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/hashimhashi47/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/hashimhashi47/LeetCode/tree/master/0217-contains-duplicate) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/hashimhashi47/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/hashimhashi47/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1241-decompress-run-length-encoded-list](https://github.com/hashimhashi47/LeetCode/tree/master/1241-decompress-run-length-encoded-list) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/hashimhashi47/LeetCode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/hashimhashi47/LeetCode/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/hashimhashi47/LeetCode/tree/master/0217-contains-duplicate) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/hashimhashi47/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/hashimhashi47/LeetCode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/hashimhashi47/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [2634-minimum-common-value](https://github.com/hashimhashi47/LeetCode/tree/master/2634-minimum-common-value) |
