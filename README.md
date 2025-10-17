@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/hashimhashi47/LeetCode/tree/master/0009-palindrome-number) |
 | [0043-multiply-strings](https://github.com/hashimhashi47/LeetCode/tree/master/0043-multiply-strings) |
 | [0066-plus-one](https://github.com/hashimhashi47/LeetCode/tree/master/0066-plus-one) |
+| [0258-add-digits](https://github.com/hashimhashi47/LeetCode/tree/master/0258-add-digits) |
 | [0371-sum-of-two-integers](https://github.com/hashimhashi47/LeetCode/tree/master/0371-sum-of-two-integers) |
 | [0412-fizz-buzz](https://github.com/hashimhashi47/LeetCode/tree/master/0412-fizz-buzz) |
 | [0728-self-dividing-numbers](https://github.com/hashimhashi47/LeetCode/tree/master/0728-self-dividing-numbers) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/hashimhashi47/LeetCode/tree/master/0043-multiply-strings) |
+| [0258-add-digits](https://github.com/hashimhashi47/LeetCode/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/hashimhashi47/LeetCode/tree/master/0412-fizz-buzz) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/hashimhashi47/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [3226-minimum-number-game](https://github.com/hashimhashi47/LeetCode/tree/master/3226-minimum-number-game) |
@@ -139,4 +141,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/hashimhashi47/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/hashimhashi47/LeetCode/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
