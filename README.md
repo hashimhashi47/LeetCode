@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0557-reverse-words-in-a-string-iii](https://github.com/hashimhashi47/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [1019-squares-of-a-sorted-array](https://github.com/hashimhashi47/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/hashimhashi47/LeetCode/tree/master/1486-find-the-distance-value-between-two-arrays) |
+| [1894-merge-strings-alternately](https://github.com/hashimhashi47/LeetCode/tree/master/1894-merge-strings-alternately) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/hashimhashi47/LeetCode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2634-minimum-common-value](https://github.com/hashimhashi47/LeetCode/tree/master/2634-minimum-common-value) |
 ## Binary Search
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1205-defanging-an-ip-address](https://github.com/hashimhashi47/LeetCode/tree/master/1205-defanging-an-ip-address) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/hashimhashi47/LeetCode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/hashimhashi47/LeetCode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
+| [1894-merge-strings-alternately](https://github.com/hashimhashi47/LeetCode/tree/master/1894-merge-strings-alternately) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/hashimhashi47/LeetCode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/hashimhashi47/LeetCode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2235-capitalize-the-title](https://github.com/hashimhashi47/LeetCode/tree/master/2235-capitalize-the-title) |
