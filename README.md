@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/hashimhashi47/LeetCode/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/hashimhashi47/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/hashimhashi47/LeetCode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
+| [1806-count-of-matches-in-tournament](https://github.com/hashimhashi47/LeetCode/tree/master/1806-count-of-matches-in-tournament) |
 | [2383-add-two-integers](https://github.com/hashimhashi47/LeetCode/tree/master/2383-add-two-integers) |
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/hashimhashi47/LeetCode/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/hashimhashi47/LeetCode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/hashimhashi47/LeetCode/tree/master/0043-multiply-strings) |
 | [0258-add-digits](https://github.com/hashimhashi47/LeetCode/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/hashimhashi47/LeetCode/tree/master/0412-fizz-buzz) |
+| [1806-count-of-matches-in-tournament](https://github.com/hashimhashi47/LeetCode/tree/master/1806-count-of-matches-in-tournament) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/hashimhashi47/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [3226-minimum-number-game](https://github.com/hashimhashi47/LeetCode/tree/master/3226-minimum-number-game) |
 | [3311-ant-on-the-boundary](https://github.com/hashimhashi47/LeetCode/tree/master/3311-ant-on-the-boundary) |
