@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0151-reverse-words-in-a-string](https://github.com/hashimhashi47/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/hashimhashi47/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/hashimhashi47/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [1019-squares-of-a-sorted-array](https://github.com/hashimhashi47/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0043-multiply-strings](https://github.com/hashimhashi47/LeetCode/tree/master/0043-multiply-strings) |
 | [0058-length-of-last-word](https://github.com/hashimhashi47/LeetCode/tree/master/0058-length-of-last-word) |
+| [0151-reverse-words-in-a-string](https://github.com/hashimhashi47/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0412-fizz-buzz](https://github.com/hashimhashi47/LeetCode/tree/master/0412-fizz-buzz) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/hashimhashi47/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0742-to-lower-case](https://github.com/hashimhashi47/LeetCode/tree/master/0742-to-lower-case) |
