@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3226-minimum-number-game](https://github.com/hashimhashi47/LeetCode/tree/master/3226-minimum-number-game) |
 | [3311-ant-on-the-boundary](https://github.com/hashimhashi47/LeetCode/tree/master/3311-ant-on-the-boundary) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/hashimhashi47/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [4012-earliest-time-to-finish-one-task](https://github.com/hashimhashi47/LeetCode/tree/master/4012-earliest-time-to-finish-one-task) |
 ## Simulation
 |  |
 | ------- |
