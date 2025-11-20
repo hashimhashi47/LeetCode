@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/hashimhashi47/LeetCode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1806-count-of-matches-in-tournament](https://github.com/hashimhashi47/LeetCode/tree/master/1806-count-of-matches-in-tournament) |
 | [2383-add-two-integers](https://github.com/hashimhashi47/LeetCode/tree/master/2383-add-two-integers) |
+| [2491-smallest-even-multiple](https://github.com/hashimhashi47/LeetCode/tree/master/2491-smallest-even-multiple) |
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/hashimhashi47/LeetCode/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/hashimhashi47/LeetCode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2812-find-the-maximum-achievable-number](https://github.com/hashimhashi47/LeetCode/tree/master/2812-find-the-maximum-achievable-number) |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/hashimhashi47/LeetCode/tree/master/0258-add-digits) |
+| [2491-smallest-even-multiple](https://github.com/hashimhashi47/LeetCode/tree/master/2491-smallest-even-multiple) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/hashimhashi47/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Combinatorics
 |  |
