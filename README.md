@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/hashimhashi47/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/hashimhashi47/LeetCode/tree/master/0217-contains-duplicate) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/hashimhashi47/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0605-can-place-flowers](https://github.com/hashimhashi47/LeetCode/tree/master/0605-can-place-flowers) |
 | [0792-binary-search](https://github.com/hashimhashi47/LeetCode/tree/master/0792-binary-search) |
 | [0890-lemonade-change](https://github.com/hashimhashi47/LeetCode/tree/master/0890-lemonade-change) |
 | [0941-sort-array-by-parity](https://github.com/hashimhashi47/LeetCode/tree/master/0941-sort-array-by-parity) |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0605-can-place-flowers](https://github.com/hashimhashi47/LeetCode/tree/master/0605-can-place-flowers) |
 | [0890-lemonade-change](https://github.com/hashimhashi47/LeetCode/tree/master/0890-lemonade-change) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/hashimhashi47/LeetCode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 ## Bit Manipulation
