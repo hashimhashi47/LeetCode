@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2634-minimum-common-value](https://github.com/hashimhashi47/LeetCode/tree/master/2634-minimum-common-value) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/hashimhashi47/LeetCode/tree/master/2876-number-of-employees-who-met-the-target) |
 | [2942-find-words-containing-character](https://github.com/hashimhashi47/LeetCode/tree/master/2942-find-words-containing-character) |
+| [3074-apple-redistribution-into-boxes](https://github.com/hashimhashi47/LeetCode/tree/master/3074-apple-redistribution-into-boxes) |
 | [3226-minimum-number-game](https://github.com/hashimhashi47/LeetCode/tree/master/3226-minimum-number-game) |
 | [3311-ant-on-the-boundary](https://github.com/hashimhashi47/LeetCode/tree/master/3311-ant-on-the-boundary) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/hashimhashi47/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/hashimhashi47/LeetCode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/hashimhashi47/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2502-sort-the-people](https://github.com/hashimhashi47/LeetCode/tree/master/2502-sort-the-people) |
+| [3074-apple-redistribution-into-boxes](https://github.com/hashimhashi47/LeetCode/tree/master/3074-apple-redistribution-into-boxes) |
 | [3226-minimum-number-game](https://github.com/hashimhashi47/LeetCode/tree/master/3226-minimum-number-game) |
 ## Heap (Priority Queue)
 |  |
@@ -199,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/hashimhashi47/LeetCode/tree/master/0605-can-place-flowers) |
 | [0890-lemonade-change](https://github.com/hashimhashi47/LeetCode/tree/master/0890-lemonade-change) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/hashimhashi47/LeetCode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
+| [3074-apple-redistribution-into-boxes](https://github.com/hashimhashi47/LeetCode/tree/master/3074-apple-redistribution-into-boxes) |
 ## Bit Manipulation
 |  |
 | ------- |
