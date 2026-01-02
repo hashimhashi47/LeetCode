@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/hashimhashi47/LeetCode/tree/master/0792-binary-search) |
 | [0890-lemonade-change](https://github.com/hashimhashi47/LeetCode/tree/master/0890-lemonade-change) |
 | [0941-sort-array-by-parity](https://github.com/hashimhashi47/LeetCode/tree/master/0941-sort-array-by-parity) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/hashimhashi47/LeetCode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/hashimhashi47/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1137-height-checker](https://github.com/hashimhashi47/LeetCode/tree/master/1137-height-checker) |
 | [1241-decompress-run-length-encoded-list](https://github.com/hashimhashi47/LeetCode/tree/master/1241-decompress-run-length-encoded-list) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/hashimhashi47/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/hashimhashi47/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0782-jewels-and-stones](https://github.com/hashimhashi47/LeetCode/tree/master/0782-jewels-and-stones) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/hashimhashi47/LeetCode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/hashimhashi47/LeetCode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1319-unique-number-of-occurrences](https://github.com/hashimhashi47/LeetCode/tree/master/1319-unique-number-of-occurrences) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/hashimhashi47/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
