@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3074-apple-redistribution-into-boxes](https://github.com/hashimhashi47/LeetCode/tree/master/3074-apple-redistribution-into-boxes) |
 | [3226-minimum-number-game](https://github.com/hashimhashi47/LeetCode/tree/master/3226-minimum-number-game) |
 | [3311-ant-on-the-boundary](https://github.com/hashimhashi47/LeetCode/tree/master/3311-ant-on-the-boundary) |
+| [3467-transform-array-by-parity](https://github.com/hashimhashi47/LeetCode/tree/master/3467-transform-array-by-parity) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/hashimhashi47/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3668-restore-finishing-order](https://github.com/hashimhashi47/LeetCode/tree/master/3668-restore-finishing-order) |
 | [3701-compute-alternating-sum](https://github.com/hashimhashi47/LeetCode/tree/master/3701-compute-alternating-sum) |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2502-sort-the-people](https://github.com/hashimhashi47/LeetCode/tree/master/2502-sort-the-people) |
 | [3074-apple-redistribution-into-boxes](https://github.com/hashimhashi47/LeetCode/tree/master/3074-apple-redistribution-into-boxes) |
 | [3226-minimum-number-game](https://github.com/hashimhashi47/LeetCode/tree/master/3226-minimum-number-game) |
+| [3467-transform-array-by-parity](https://github.com/hashimhashi47/LeetCode/tree/master/3467-transform-array-by-parity) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -202,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1848-sum-of-unique-elements](https://github.com/hashimhashi47/LeetCode/tree/master/1848-sum-of-unique-elements) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/hashimhashi47/LeetCode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/hashimhashi47/LeetCode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
+| [3467-transform-array-by-parity](https://github.com/hashimhashi47/LeetCode/tree/master/3467-transform-array-by-parity) |
 ## Matrix
 |  |
 | ------- |
