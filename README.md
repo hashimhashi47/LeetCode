@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/hashimhashi47/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [1806-count-of-matches-in-tournament](https://github.com/hashimhashi47/LeetCode/tree/master/1806-count-of-matches-in-tournament) |
 | [2383-add-two-integers](https://github.com/hashimhashi47/LeetCode/tree/master/2383-add-two-integers) |
+| [2396-strictly-palindromic-number](https://github.com/hashimhashi47/LeetCode/tree/master/2396-strictly-palindromic-number) |
 | [2491-smallest-even-multiple](https://github.com/hashimhashi47/LeetCode/tree/master/2491-smallest-even-multiple) |
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/hashimhashi47/LeetCode/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/hashimhashi47/LeetCode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/hashimhashi47/LeetCode/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1894-merge-strings-alternately](https://github.com/hashimhashi47/LeetCode/tree/master/1894-merge-strings-alternately) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/hashimhashi47/LeetCode/tree/master/2231-find-first-palindromic-string-in-the-array) |
+| [2396-strictly-palindromic-number](https://github.com/hashimhashi47/LeetCode/tree/master/2396-strictly-palindromic-number) |
 | [2634-minimum-common-value](https://github.com/hashimhashi47/LeetCode/tree/master/2634-minimum-common-value) |
 ## Binary Search
 |  |
@@ -246,4 +248,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/hashimhashi47/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+## Brainteaser
+|  |
+| ------- |
+| [2396-strictly-palindromic-number](https://github.com/hashimhashi47/LeetCode/tree/master/2396-strictly-palindromic-number) |
 <!---LeetCode Topics End-->
