@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/hashimhashi47/LeetCode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1512-number-of-good-pairs](https://github.com/hashimhashi47/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [1806-count-of-matches-in-tournament](https://github.com/hashimhashi47/LeetCode/tree/master/1806-count-of-matches-in-tournament) |
+| [2180-count-integers-with-even-digit-sum](https://github.com/hashimhashi47/LeetCode/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2383-add-two-integers](https://github.com/hashimhashi47/LeetCode/tree/master/2383-add-two-integers) |
 | [2396-strictly-palindromic-number](https://github.com/hashimhashi47/LeetCode/tree/master/2396-strictly-palindromic-number) |
 | [2491-smallest-even-multiple](https://github.com/hashimhashi47/LeetCode/tree/master/2491-smallest-even-multiple) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0657-robot-return-to-origin](https://github.com/hashimhashi47/LeetCode/tree/master/0657-robot-return-to-origin) |
 | [1806-count-of-matches-in-tournament](https://github.com/hashimhashi47/LeetCode/tree/master/1806-count-of-matches-in-tournament) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/hashimhashi47/LeetCode/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2180-count-integers-with-even-digit-sum](https://github.com/hashimhashi47/LeetCode/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/hashimhashi47/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2553-separate-the-digits-in-an-array](https://github.com/hashimhashi47/LeetCode/tree/master/2553-separate-the-digits-in-an-array) |
 | [3226-minimum-number-game](https://github.com/hashimhashi47/LeetCode/tree/master/3226-minimum-number-game) |
