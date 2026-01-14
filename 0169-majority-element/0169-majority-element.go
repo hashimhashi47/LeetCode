@@ -5,6 +5,7 @@ func majorityElement(nums []int) int {
 		ch[nums[i]]++
 		if len(nums)/2 < ch[nums[i]] {
 			a = nums[i]
+            break
 		}
 	}
     return a
