@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/hashimhashi47/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/hashimhashi47/LeetCode/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/hashimhashi47/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/hashimhashi47/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/hashimhashi47/LeetCode/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/hashimhashi47/LeetCode/tree/master/0283-move-zeroes) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/hashimhashi47/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/hashimhashi47/LeetCode/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/hashimhashi47/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/hashimhashi47/LeetCode/tree/master/0217-contains-duplicate) |
 | [0387-first-unique-character-in-a-string](https://github.com/hashimhashi47/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/hashimhashi47/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -181,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/hashimhashi47/LeetCode/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/hashimhashi47/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/hashimhashi47/LeetCode/tree/master/0217-contains-duplicate) |
 | [0912-sort-an-array](https://github.com/hashimhashi47/LeetCode/tree/master/0912-sort-an-array) |
 | [0941-sort-array-by-parity](https://github.com/hashimhashi47/LeetCode/tree/master/0941-sort-array-by-parity) |
@@ -204,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/hashimhashi47/LeetCode/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/hashimhashi47/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0912-sort-an-array](https://github.com/hashimhashi47/LeetCode/tree/master/0912-sort-an-array) |
 | [1137-height-checker](https://github.com/hashimhashi47/LeetCode/tree/master/1137-height-checker) |
@@ -234,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/hashimhashi47/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0169-majority-element](https://github.com/hashimhashi47/LeetCode/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/hashimhashi47/LeetCode/tree/master/0191-number-of-1-bits) |
 | [0912-sort-an-array](https://github.com/hashimhashi47/LeetCode/tree/master/0912-sort-an-array) |
 ## Number Theory
