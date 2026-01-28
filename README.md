@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/hashimhashi47/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/hashimhashi47/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0605-can-place-flowers](https://github.com/hashimhashi47/LeetCode/tree/master/0605-can-place-flowers) |
+| [0747-largest-number-at-least-twice-of-others](https://github.com/hashimhashi47/LeetCode/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0792-binary-search](https://github.com/hashimhashi47/LeetCode/tree/master/0792-binary-search) |
 | [0890-lemonade-change](https://github.com/hashimhashi47/LeetCode/tree/master/0890-lemonade-change) |
 | [0912-sort-an-array](https://github.com/hashimhashi47/LeetCode/tree/master/0912-sort-an-array) |
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/hashimhashi47/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/hashimhashi47/LeetCode/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/hashimhashi47/LeetCode/tree/master/0349-intersection-of-two-arrays) |
+| [0747-largest-number-at-least-twice-of-others](https://github.com/hashimhashi47/LeetCode/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0912-sort-an-array](https://github.com/hashimhashi47/LeetCode/tree/master/0912-sort-an-array) |
 | [0941-sort-array-by-parity](https://github.com/hashimhashi47/LeetCode/tree/master/0941-sort-array-by-parity) |
 | [1019-squares-of-a-sorted-array](https://github.com/hashimhashi47/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
