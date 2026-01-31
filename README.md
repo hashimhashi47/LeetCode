@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/hashimhashi47/LeetCode/tree/master/0258-add-digits) |
 | [0371-sum-of-two-integers](https://github.com/hashimhashi47/LeetCode/tree/master/0371-sum-of-two-integers) |
 | [0412-fizz-buzz](https://github.com/hashimhashi47/LeetCode/tree/master/0412-fizz-buzz) |
+| [0415-add-strings](https://github.com/hashimhashi47/LeetCode/tree/master/0415-add-strings) |
 | [0728-self-dividing-numbers](https://github.com/hashimhashi47/LeetCode/tree/master/0728-self-dividing-numbers) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/hashimhashi47/LeetCode/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/hashimhashi47/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/hashimhashi47/LeetCode/tree/master/0043-multiply-strings) |
 | [0258-add-digits](https://github.com/hashimhashi47/LeetCode/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/hashimhashi47/LeetCode/tree/master/0412-fizz-buzz) |
+| [0415-add-strings](https://github.com/hashimhashi47/LeetCode/tree/master/0415-add-strings) |
 | [0657-robot-return-to-origin](https://github.com/hashimhashi47/LeetCode/tree/master/0657-robot-return-to-origin) |
 | [1389-create-target-array-in-the-given-order](https://github.com/hashimhashi47/LeetCode/tree/master/1389-create-target-array-in-the-given-order) |
 | [1806-count-of-matches-in-tournament](https://github.com/hashimhashi47/LeetCode/tree/master/1806-count-of-matches-in-tournament) |
@@ -174,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/hashimhashi47/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/hashimhashi47/LeetCode/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/hashimhashi47/LeetCode/tree/master/0412-fizz-buzz) |
+| [0415-add-strings](https://github.com/hashimhashi47/LeetCode/tree/master/0415-add-strings) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/hashimhashi47/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0657-robot-return-to-origin](https://github.com/hashimhashi47/LeetCode/tree/master/0657-robot-return-to-origin) |
 | [0742-to-lower-case](https://github.com/hashimhashi47/LeetCode/tree/master/0742-to-lower-case) |
