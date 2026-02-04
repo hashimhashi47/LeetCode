@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/hashimhashi47/LeetCode/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/hashimhashi47/LeetCode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2812-find-the-maximum-achievable-number](https://github.com/hashimhashi47/LeetCode/tree/master/2812-find-the-maximum-achievable-number) |
+| [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/hashimhashi47/LeetCode/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3371-harshad-number](https://github.com/hashimhashi47/LeetCode/tree/master/3371-harshad-number) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/hashimhashi47/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/hashimhashi47/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2942-find-words-containing-character](https://github.com/hashimhashi47/LeetCode/tree/master/2942-find-words-containing-character) |
 | [3074-apple-redistribution-into-boxes](https://github.com/hashimhashi47/LeetCode/tree/master/3074-apple-redistribution-into-boxes) |
 | [3226-minimum-number-game](https://github.com/hashimhashi47/LeetCode/tree/master/3226-minimum-number-game) |
+| [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/hashimhashi47/LeetCode/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3311-ant-on-the-boundary](https://github.com/hashimhashi47/LeetCode/tree/master/3311-ant-on-the-boundary) |
 | [3467-transform-array-by-parity](https://github.com/hashimhashi47/LeetCode/tree/master/3467-transform-array-by-parity) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/hashimhashi47/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -107,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2274-keep-multiplying-found-values-by-two](https://github.com/hashimhashi47/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2553-separate-the-digits-in-an-array](https://github.com/hashimhashi47/LeetCode/tree/master/2553-separate-the-digits-in-an-array) |
 | [3226-minimum-number-game](https://github.com/hashimhashi47/LeetCode/tree/master/3226-minimum-number-game) |
+| [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/hashimhashi47/LeetCode/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3311-ant-on-the-boundary](https://github.com/hashimhashi47/LeetCode/tree/master/3311-ant-on-the-boundary) |
 | [3701-compute-alternating-sum](https://github.com/hashimhashi47/LeetCode/tree/master/3701-compute-alternating-sum) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/hashimhashi47/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
@@ -224,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/hashimhashi47/LeetCode/tree/master/0912-sort-an-array) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/hashimhashi47/LeetCode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [3226-minimum-number-game](https://github.com/hashimhashi47/LeetCode/tree/master/3226-minimum-number-game) |
+| [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/hashimhashi47/LeetCode/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 ## Counting Sort
 |  |
 | ------- |
