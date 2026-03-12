@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/hashimhashi47/LeetCode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/hashimhashi47/LeetCode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/hashimhashi47/LeetCode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
+| [2185-counting-words-with-a-given-prefix](https://github.com/hashimhashi47/LeetCode/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/hashimhashi47/LeetCode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/hashimhashi47/LeetCode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/hashimhashi47/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/hashimhashi47/LeetCode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1894-merge-strings-alternately](https://github.com/hashimhashi47/LeetCode/tree/master/1894-merge-strings-alternately) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/hashimhashi47/LeetCode/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2185-counting-words-with-a-given-prefix](https://github.com/hashimhashi47/LeetCode/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/hashimhashi47/LeetCode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/hashimhashi47/LeetCode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2235-capitalize-the-title](https://github.com/hashimhashi47/LeetCode/tree/master/2235-capitalize-the-title) |
@@ -303,4 +305,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/hashimhashi47/LeetCode/tree/master/0912-sort-an-array) |
+## String Matching
+|  |
+| ------- |
+| [2185-counting-words-with-a-given-prefix](https://github.com/hashimhashi47/LeetCode/tree/master/2185-counting-words-with-a-given-prefix) |
 <!---LeetCode Topics End-->
